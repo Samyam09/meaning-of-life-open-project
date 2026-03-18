@@ -1,9 +1,5 @@
-
----
-
 # 🌍 `responses.md`
 
-```md
 # Global Responses
 
 A continuously growing collection of perspectives on the meaning of life.
@@ -14,11 +10,11 @@ Each entry represents an individual viewpoint shaped by personal experience, cul
 
 ## Add Your Perspective
 
-To contribute, follow the format below and add your response at the end of this file.
+> To contribute, follow the format below and add your response at the end of this file.
 
-```text
-- Name: (optional)
-- Age: (optional)
-- Country: (optional)
+
+- Name: Alex
+- Age: 25
+- Country: USA
 - Perspective:
-  Your answer in 1–5 lines.
+  Life is about learning and leaving a positive mark on the world.
